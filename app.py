@@ -1,2 +1,3 @@
 name = input("Adınızı daxil edin: ")
-print(f"Salam, {name}!")
+age = input("Yaşınızı daxil edin: ")
+print(f"Salam, {name}! Sənin {age} yaşın var.")
